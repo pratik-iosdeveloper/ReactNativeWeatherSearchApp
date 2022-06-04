@@ -10,4 +10,3 @@ This app is used to search the Weather of the city entered in the textbox using 
 6. App UI should work well in portrait mode.
 7. Show only one row per day. API returns multiple records for each day (every hour). Filter it out and show only one record per day
 8. The app should run on both iOS and Android phones.
-# ReactNativeWeatherSearchApp
